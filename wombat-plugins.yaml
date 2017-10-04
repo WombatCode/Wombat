@@ -1,0 +1,3 @@
+plugins:
+  - name: "wombat-vms"
+    folder: "plugins/wombat-vms"
