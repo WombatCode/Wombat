@@ -1,0 +1,7 @@
+[submodule ".\\plugins\\wombat-inventory"]
+	path = .\\plugins\\wombat-inventory
+	url = https://github.com/WombatCode/wombat-inventory.git
+
+[submodule ".\\plugins\\wombat-libvirt"]
+	path = .\\plugins\\wombat-libvirt
+	url = https://github.com/WombatCode/wombat-libvirt.git
